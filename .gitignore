@@ -1,0 +1,4 @@
+/target
+*.zarr
+resources/linkedmdb-latest-dump.nt
+.DS_Store
